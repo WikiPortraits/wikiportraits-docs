@@ -8,7 +8,7 @@ that displays Google Docs as webpages.
 1. Open your Google Doc
 2. Click File → Share → Publish to web
 3. Publish as a link and copy the ID
-4. Copy the ID from the provided URL (the long string after `/d/e/`)
+4. Copy the ID from the provided URL (the long string after `/d/e/`, not included the `/pub` at the end)
 ### Create Page
 Here is the template for a new page. Fill in the {TITLE}, {DESCRIPTION}, and {DOC_ID} (DOC_ID being the ID from above).
 
